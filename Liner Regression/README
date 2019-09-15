@@ -1,0 +1,7 @@
+Liner Regression Folder
+
+Including files:
+  1. Linear Regression.ipynb : Functions for build linear regression model and stock analysis results for the project.
+  2. stock_list_test.txt: Short test file with a 11 symbols.
+  3. stock_list.txt: Full stock symbol list gathered from part 1 of the project.
+  4. Stock_Coefficients.csv: output file contains coefficient value for all the symbols from the stock_list.txt.

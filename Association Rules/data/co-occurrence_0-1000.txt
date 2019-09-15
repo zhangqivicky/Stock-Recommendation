@@ -1,0 +1,1000 @@
+
+etfc
+fb
+nflx
+mu	amat	lrcx
+msft	symc	flt	de	lyb
+
+googl	fb
+pm	bti	bti
+twtr
+
+amzn
+aapl
+twtr	fb	goog	msft
+unh
+
+
+
+zyne	insy
+teva	nvo
+s	vz	t	tmus
+
+msft
+mcd	ko	fb	amzn	nflx	googl
+goog	yum
+pfe	nvs	lly
+
+jwn
+pfe
+msci
+cbs
+ua	uaa	nke	lulu	colm
+spwr	fslr
+
+msft	crm	dpz	dg	nee	unh	v	sbac
+
+amd	intc	nvda
+biib	gild	celg	amgn	vrtx	regn	exas	incy	acad
+fb	snap	googl	c
+m	jcp	fl	cvs	wmt
+
+
+intc
+amzn	fb	w	etsy	z	twtr
+
+
+tsla
+aapl	t	vz	s	tmus	stm
+fb	goog
+xom	cvx	cvx	vlo	mpc
+amzn	aapl	goog
+halo	celg	lly	mrk
+ms	gs	c	jpm
+
+tsla
+goog	aapl	msft	bidu	msft
+bac	baba
+chk	rig	fcx
+
+
+
+cmg	adp
+
+jnj	sbux	v	epd	psa	slb
+nflx	fb	amzn
+tlry	cgc	acb.xtse
+jpm	c	avgo
+txn	bks	intc
+
+
+
+tgt	goog
+nvda
+dis
+msci
+ntes	bidu	baba
+cara
+tsla
+
+wb	sina	baba
+nflx
+pvh	nke	rl
+myl	teva
+jpm
+nflx
+fb
+amzn	snap
+ba	lmt
+
+mcd	nvda	amd	xom	cl	ms	bkng	pm	bwa	tap	oi
+aapl
+tsla	f
+
+aapl
+qcom	nxpi
+jpm	wfc	c	bac	gs	ms
+amzn
+snap	goog	googl	brk.a	brk.b
+atvi	ea	ttwo
+gg	gold	aem
+roku	aapl	nflx	googl	amzn
+mmm
+
+
+
+aapl
+googl
+z	amzn	bby
+
+amzn
+
+tsla
+intc	msft
+amd	mu	stx	nvda	pstg
+vntv	wpg	jpm	ma	gpn
+
+
+ge	aapl
+aapl
+jbl	aapl
+s
+
+nflx	fb	goog	amzn
+aapl
+
+fb	goog	twtr
+mu
+brk.a	luv	dal	aal	ual
+fb	amzn	nflx	goog
+vz	aaba
+
+googl	fb
+
+nvda
+ms	chl	vod	vz	amt	cci	csco	qcom	nvda	tsla
+mu	intc
+v	ma
+biib
+aapl	fb	twtr	amzn
+pg
+aapl
+ba
+ba	utx
+hal	baba
+jpm
+biib	gild	vrtx	incy	bmo
+aapl	amzn	goog
+jpm
+slb
+jpm	c	bac
+amzn
+kr	amzn	amzn
+qcom	nxpi
+nke	fl	dks
+aapl	goog	nflx	fb
+amzn	bkng	googl	goog	znwaa
+amd
+baba
+aapl
+spot	aapl	googl	amzn	ebay	nflx
+tsla
+mu
+fb
+
+mu
+ge
+
+brk.b	luv	dal	aal	ual
+
+amzn
+myl	bmy	mrk	gild	gsk	jnj
+
+amzn
+sq
+isrg
+x
+msft
+
+nvs
+goog	fb
+amzn	jpm
+msft	googl
+amzn	aapl	msft	brk.a
+ual	aal	dal	ual
+ally
+celg
+bac
+
+msft
+gs
+amzn
+nflx
+cbs
+axl
+nflx
+dwdp
+sq
+gm
+aapl
+cmcsa	foxa	dis
+fdx	ups	amzn
+jnj	pfe	mrk	unh
+
+
+mu
+
+khc	ul
+ba	dal
+
+intc
+baba
+blue	gild	gild	celg
+amzn	amzn	cpb	ul	cag	aprn
+
+tmus	s
+amgn	hcp	hog
+
+
+
+twtr	sq	fb	googl	amzn	nflx	aapl	snap	dis
+tgt	wmt	amzn	cost
+nvda	amd
+amzn	fb	googl	nflx
+nflx	dis
+dhi
+msft
+luv	csx
+amzn	goog
+snap	fb	twtr
+fb	nflx	aapl	tsm
+amd
+
+djp
+
+
+
+gme
+gpro	fit	grmn	aapl	fb	snap
+schw
+ba	lmt
+m
+amzn	aapl
+
+ba	jblu	ge
+amzn	wmt	nke
+aep	pcg	peg	xel
+sbux
+dis	foxa
+
+
+wy
+tgt	hd	rost	bby
+aaba	symc	csco	panw	cybr
+
+
+fb
+
+intc
+aapl	dis
+
+
+amzn	tgt	aapl	lulu	anf	bbby	aap
+aapl	fb	goog	amzn	nflx	baba
+nflx
+aal	dal	luv
+msft	amzn	aapl	goog
+nke	uaa
+ba
+
+tsla	pep	ups	wmt
+
+w	rh	amzn	wmt
+
+
+baba	blk	gs	pypl
+atvi	ntes	ttwo	nvda	msft
+amd	intc
+msft
+tgt	wmt	amzn
+
+brk.a	djco	cost
+
+baba	snap
+axp
+
+aapl
+
+msft	qcom	intc
+
+aapl	amzn	goog
+aapl
+nio	tsla
+googl	amzn
+
+jnj
+
+fdx
+tsla	gm	tm
+wtw
+qcom
+
+fb
+pxd	gel	trgp	apc	nbl	cog	rrc
+nvda	tm
+
+kr	wmt	hain	khc
+aapl
+ibtx	bxs	tsc	homb	cbtx	tbk
+sbux	baba
+aapl
+tmus	s	t	vz	tmus	s
+c
+pzza
+atvi
+msft
+
+
+ibm	hd	tgt	hsy	pg	amzn
+fit	aapl	grmn
+tsn	cag	gis
+amzn
+twtr
+
+
+
+
+aapl
+alk	dal	luv	ual	aal
+celg
+
+ba	lmt	utx
+tsla	googl	intc	aapl
+oxy	dk	pxd	wpx	eog	su	slb
+
+amzn	ms	wmt	ebay	etsy	meli	baba
+amzn	aapl	ge
+fb
+fb	snap	googl
+cs
+cgc	tlry	nbev	smg
+aapl	fb	goog
+ostk	sivb	sq	amd
+tsla
+pg	fb	googl	ul
+twtr	bmy	yelp	etfc	aapl	csco	ci	kmb	mxim	yelp	twtr	bmy	incy	ew	xpo	tdg	chrw	cnx	etfc	aap	t
+tgt	kr	amzn	wmt	goog
+tsm	aapl	mksi	swks	on	intc	qcom	txn
+kof	ko
+
+ksu	ual	dal	lstr
+cvs
+
+sq	amd	intc	msft	v	amzn
+f	scs
+vod	lbtya
+efx
+amzn
+tsla
+
+nvda
+amd	intc
+
+tsla	fslr	spwr
+googl
+
+cmcsa	foxa	dis	t
+brk.a	aapl
+cgc	tlry
+fcx
+ice	nflx	goog	bac	tmus	bax	dwdp	baba
+fb	amzn	nflx	goog	sq
+acn	ma	rost	anss	chrw	ctsh	ew	payx	v
+ba	aapl
+wba	ge
+ccl
+
+
+aapl	vz
+vale
+csco	swks	aapl
+
+goog	f
+twtr	fb	goog
+
+xec	mtdr	pe	fang	cxo	cpe
+
+ms
+vz	aaba
+fb	atvi	znga
+m	kr	fl	navi	ge	viab	alk	amzn
+csco	g
+bgne	plse	clsd	reta	pti
+gm	f	tsla
+wmt
+
+
+bac	c	jpm	wfc
+adbe	bac
+cat	de	ba	hon	emr	utx
+
+aapl	hpq	msft	fb	bac	goog	xrx	ual	dow	csco	fe
+rad	amzn	wba	cvs
+
+intc	txn	qcom	tsm	avgo	swks	nvda	qrvo
+bac	c	wfc
+
+fb	goog
+dis	nflx
+aks	stld	ati	nue
+tsla	intc	pcg	eix	amzn	fb	goog	aapl	stz	dpz
+rev	amzn
+crk
+fb	nvda
+qlys	cybr	ftnt	pfpt	keyw	csco	vrsn
+nke	uaa
+
+msft	ndaq
+amzn	wmt	kr	tgt
+cvx
+twtr	googl	t	vz	jnj
+uaa	ua
+bmy
+
+fb	msft	yext	wfc	googl	mu	nvda	nflx	amzn	orcl	ibm
+m	amzn
+amzn	tsla	goog	aapl
+celg
+bb
+aapl	amzn
+msft
+m	amzn
+
+whr
+
+snap
+
+gpro
+amzn	wmt
+tsla
+
+
+
+fdx	ups
+amd	intc
+tmus	s	vz	t
+gs	avgo	vlo	amzn	chk	fcx
+
+dis
+ccl
+baba
+vgr	gps	oke	t	qcom	mcy	cat	nvs	vz	so
+bp
+
+ge	pfe	ba
+
+
+cmcsa	cpb	mgm	wmb	aaba
+rf	cit	c	jpm	ms
+
+shop
+amd	nvda
+jpm
+
+
+gm	tsla
+aapl	goog	amzn	blk
+gps	amzn
+amzn	burl	rost	tjx	m	jwn	kss
+amd
+cgc	cron	tlry
+pfe	mrk	jnj	bmy
+gs	adm	nbl	hca	hpe	stx	ual	ctl	aes	mrk
+amzn	nflx
+
+ba
+
+dis	foxa
+
+
+
+tsla
+msft
+
+amd	nvda
+aapl
+goog	wmt	baba
+vz
+rost
+amd	nvda	intc
+
+
+
+fb	pg	googl
+
+gs
+twtr
+tsla	twtr
+iep
+gs	msft	goog
+
+aapl	amzn
+amag
+anet	eqix	csco	msft
+axp
+ko	mnst
+jwn
+
+ry
+aapl	brk.a
+ma	axp	pypl
+efx	jpm	adp	td
+
+bac
+baba
+
+nke	fl	scvl
+fb	aapl	amzn
+brk.a	brk.b	wfc
+amgn	biib	jazz
+
+
+aapl
+jpm	c	gs
+ba	save
+
+cme
+tsla
+schw
+nflx	amzn	dis	aapl	t
+ge
+schw	jpm
+uthr	jnj
+
+
+wynn	cmg
+gis	tsn	mcd	amzn
+roku	dis	nflx
+
+
+abt	bsx	mdt	syk	bax	ew	zbh
+dds	amzn
+dpz	dri	wen	yum	mcd	sbux	cmg
+
+aapl
+tsla	amd	aapl	ctl	t	ge
+arna	immu	anab	hrtx	enta	aimt
+
+gild
+sq	twtr	pypl	fdc
+amzn
+gs	c	jpm	ryaay
+
+aapl	amzn	msft	brk.a
+bac	c	gs	jpm	ms	wfc	ab	bcs
+
+cbs	viab
+sbux	jpm	v
+tsla
+
+tsla	fmc	sqm
+ba
+tpr	trp
+mo	tap
+
+
+
+googl	goog	msft
+
+avgo
+
+baba	amzn
+amzn	goog	intc	msft	aapl	jnj	f	ibm	fb
+amd	nvda
+
+amgn	nvs	abbv
+baba	aaba	vz
+
+qcom	nxpi	aapl
+aapl
+
+nflx	dis	aapl	amzn	fb
+
+tsla
+hd	low	wy	lpx	usg	mlm	oc	becn	x	aks
+rad	wba
+
+avgo	qcom	txn	intc	swks	qrvo	lscc	crus
+cmg	sbux	mcd	yum
+
+
+amzn	goog	msft
+
+on	nxpi	adi	mxim	txn	intc	amd
+amot	ufpt	ely	mlab	usph	jout	hfwa	lmat
+
+
+
+snap
+cmg
+t	vz
+amzn
+
+rl	zts	coo	qgen	mkc	siri
+amzn	goog	intc	msft
+amzn	irbt	evlv
+ge
+amzn
+
+aapl	amzn	nvda
+mdlz	hsy
+icad
+celg	amgn	gild	biib
+
+jpm	c	bac
+xom
+
+cat
+amzn	wba	rad	cvs	wba	jpm	brk.a
+
+
+blk
+intc	tsm	mu	nvda	txn
+blk
+goog
+blk
+wba	amzn
+
+amzn
+jpm
+
+amzn	vmw	msft	goog	ibm
+fb	amzn	aapl	nflx	googl
+
+goog
+tsla
+fdx
+blk
+aapl	qcom	intc
+grub
+gpro
+amd
+znga	dis	fb
+
+
+
+
+nvda
+grub
+wu
+
+amzn	plce	bke	five
+aapl	googl	fb
+gs	bac	c
+bac	c	jpm	gs
+
+
+fcx
+fdc
+tsla
+immu
+riot	mara	ueps
+msft	snap
+bhp	rio
+avgo	lrcx	amat
+fb	googl	ostk
+
+nvda
+
+fb	amzn	nflx	googl	wmt
+
+amgn	aldr	lly	teva
+symc	feye
+
+aapl
+
+
+pfe
+nvda	amd
+aapl	fb	ul	goog	pcg	xom	tsla
+
+
+shop
+
+bbby
+pg
+ms	gs
+amzn	fdx	ups	gs	cs
+nvda	amd
+jpm	msft
+
+
+aapl	nok
+aapl	brk.a
+tsla
+mdt	eog	googl	aapl
+nvda	googl
+
+pcty	wk	znga
+nvda
+
+aapl
+wtw
+fb	z	amzn
+clx	gild	nov	pnr	un	xyl
+jnj	ibm	aapl	brk.a
+tsla	cybr
+
+eog
+c
+amzn
+gs	twtr	seas	kmb	tmus	s	rad	etsy	bmrn	vrtx	incy	alxn
+cat
+amzn	amzn	wba	rad	fred	cvs
+qcom
+schw
+aapl	amzn	msft
+
+
+googl	amzn	nflx	wmt	aapl
+lulu	nke	uaa
+intc
+gs	brk.a
+gme	nflx
+avp	nus	rev
+amzn	wmt	cvs
+
+
+vod	chl
+nvda	amd
+sny	regn
+sbux
+
+csco	ftnt	chkp	msft	ibm	panw	feye	cybr
+
+
+baba	pdd	f	sbux
+nflx
+kr	amzn	amzn	wmt
+kss	rost	tjx
+
+
+
+ba	ge
+sq
+fb	twtr
+fb
+
+amzn	msft
+tap
+
+aapl
+
+
+amd
+tsla
+amzn	wmt	tgt	pm	gm	khc	clx	pg
+htbx	bmy	mrk	azn
+soda	ko	pep
+vz
+adbe	nati	idxx	vmw	flo	xyl	azo	siri	expe	wat
+gme
+nee	duk	d
+bmy	celg	lly	gild	mrk	pfe	fb	amzn	nflx	googl	unh
+nlsn
+gm
+dis	cmcsa	foxa	nflx
+jpm
+
+tsla
+brk.a	jpm	amzn
+gs	ms	bac	jpm	c	wfc
+bb	aapl	googl
+snap	twtr	fb
+tsla
+
+googl	amzn	aapl
+sbux
+egrx	gild	teva
+jjc	jju
+
+qcom	avgo	nxpi
+amzn
+intc	aapl
+fb	amzn	aapl	nflx	goog	six	abbv	ipg	saft
+
+nvda	amd
+plug	amzn	wmt	hd
+fb	goog	amzn
+
+amzn	wmt
+atvi
+ttd
+sfly
+
+amgn	sny	nvs	abbv	agn	nvo	pfe
+wb	nvda	now	sq	shop	fb	aapl	amzn
+
+avgo	swks	qrvo	intc	txn	amba
+amgn	gild
+biib	ions
+gt	tsla
+cat
+csco
+fb
+nvs	t
+aapl	msft
+cxw	geo
+tgt	cost
+adsk	ttwo
+
+alxn	bmrn
+nvda
+
+jpm
+de
+
+
+jjc	jju
+
+aapl	amzn
+
+
+
+ibm
+goog	hpq	aapl
+wix	csco
+grub	yelp	grpn
+pm	mo	bti	bti
+aapl	bac	jpm	v	ba	nvda
+csco
+lrcx	swks	ter
+
+amzn	wmt	baba
+vfc
+fb
+iep	ten
+nvda
+
+aapl	spot	googl
+brk.b	baba	pypl	amzn	googl	fb
+cbmg	celg	gild	nvs
+snap
+jpm
+
+googl	fb
+
+gs	isrg	algn	ilmn	ulta	rhi	vlo	ea	pxd
+ebay
+amzn	msft	baba	googl	ibm	wmt
+ma	kr	fit	v	aapl
+
+f	fcau
+dis	fox	t	cmcsa
+
+plce	amzn	ebf	hvt	smp
+edit	crsp	ntla
+tsla	amd	aapl	nflx	amzn	baba
+wfc
+amzn	ge	f	goog	msft
+fb
+
+wmt	goog	amzn	msft	baba
+amzn	tgt	wmt	prty
+tjx	v	ma	hd	tgt
+aeo
+kr	gs	amzn	wmt
+
+s	aapl	tmus	vz	t
+
+baba
+aapl
+
+roku
+tpr	lulu	uaa	pvh
+blk
+db
+ba
+
+
+hlf
+ogs	nee	es	sre
+tsla
+clf
+teva
+hsbc
+sdrl	pbr
+baba	jd
+tsla
+aapl
+fb	snap
+br
+mdt	aapl	googl
+gs	snap	fb	aal	msft
+m
+afl	dox	bce	brk.b	ko	hon	l	pep	rsg	pg
+f	ssys
+goog	msft	t	fang	grmn	sivb
+fb	dis	bt	goog	aapl	snap	twtr
+data	grub	hubs	shop	adbe
+
+
+fb
+mtch	yum	dpz	five	burl	lulu	aeo	tpr
+aapl	dis	nflx
+sgg
+tsla
+tsla
+dal	aal	luv	ual
+
+aapl	qcom	intc
+gs
+amzn	s	tu	aapl
+dis	msft
+
+orly	mos	kr	amzn	amzn
+
+
+
+tsla
+amgn	celg	gild	uthr	alny	alks	fb	nvda	amat	adbe	aapl	msft
+
+
+bac
+dis	nflx
+
+aapl
+gs
+intl
+tsla
+
+kss	amzn
+msft
+ge
+pg	ko
+tsla
+
+
+
+plug
+
+tsla	gm	f
+wfc	jpm	bac	c
+mat	mat
+wmt
+aapl	sne	swks	crus	avgo	qrvo	stm	fnsr	iivi	lite
+
+sage	acad	alks	supn
+fb	dpz	flws
+aapl	nflx
+brk.b	jpm
+
+
+mtch
+t
+
+amd	intc
+
+amzn	jpm	ally	amtd	cof
+csco
+intc
+
+pm
+
+googl	msft
+via	nflx	googl	dish
+
+intc
+tsla	gs	gm
+gs	usb	dal	aapl	bk
+fdc	v	ma	sq	pypl
+jpm	bac	c	ms
+yum	amzn	tsla
+orcl	googl
+sne	fb
+aapl
+dds
+jnj
+
+fslr	csiq
+tsla	wmt	jbht
+
+
+aapl	wdc	mu	avgo	swks	qrvo
+amzn	roku	bby
+
+myl	gild	amgn	exel
+siri	aapl	googl	amzn
+tsla
+fb	goog
+utx	mmm	jnj	fcx
+
+
+amzn	wba	cvs
+ge	hon	utx	ba	mmm
+v
+fb	snap
+
+aapl
+wfc
+gs
