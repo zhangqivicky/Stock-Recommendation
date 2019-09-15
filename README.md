@@ -1,4 +1,4 @@
-# pythonFiles
+# Stock Recommendation System
 A set of all jupyter notebooks for the data mining project of buidling stock recommendation system.
 
 This team project built a stock recommendation system using data mining techniques. The recommendation is implemented by analyzing the associations between different stocks. If a stock symbol is provided as an input, the system will return a group of stocks which are similar to the original stock. This comparison is done on basis of three parameters - strong association rules, in the same group and similar price variation trend. Recommendations are also made by regression modeling. The system also contains a forecasting tool with built in seasonal modeling to reflect the future trends of a particular stock symbol. 
